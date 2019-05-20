@@ -12,18 +12,35 @@ The presentation is online at:
 
 https://tercen.github.io/proteomics_tutorial
 
-## modifying the presentation
+## How to modifying the presentation
 
-`git clone https://github.com/tercen/proteomics_tutorial`
+using github interface fork the repo:
 
-Open `docs/index.Rmd`
+`https://github.com/tercen/proteomics_tutorial`
+
+this creates a personal copy under your github login name, let's say it is `myname`, this new repository is located at:
+
+`https://github.com/myname/proteomics_tutorial`
+
+clone this personal copy by:
+
+`git clone https://github.com/myname/proteomics_tutorial`
+
+Open and modify the presentation at: 
+
+`docs/index.Rmd`
 
 Generate the html (in Rstudio) using:
 
 `Crtl + Shift + K`
 
+Push back the contents to your personal repository by: 
+
 `git push`
 
 The presentation is online at:
+
 https://tercen.github.io/proteomics_tutorial
+
+once you are happy with the results then you can perform a `pull request` to the orginal repository, this is done via the github interface.
 
