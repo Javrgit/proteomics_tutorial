@@ -1,0 +1,53 @@
+---
+title: "Proteomics Tutorial"
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Proteomics Tutorial
+
+## Welcome, blast off at 14:00
+<center><img src="../images/rocket.gif" height="300px" /></center>
+
+
+<center>workshop on github </center>
+
+<center>(https://github.com/tercen/proteomics_tutorial)</center>
+
+## Agenda
+
+- analysis of mass spec data
+- TBD
+
+
+## Researchers goals
+
+- Understand the data
+- What is good data
+- What is bad data
+- How to correct for it
+- TBD
+
+<center><img src="../images/fish2.gif" height="200px" /></center>
+
+
+## Mass spec Concepts
+
+- TBD
+
+## How Good data look like
+
+- TBD
+
+
+## How Bad data look like
+
+- TBD
+
+## How to correct
+
