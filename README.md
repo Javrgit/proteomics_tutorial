@@ -14,11 +14,11 @@ https://tercen.github.io/proteomics_tutorial
 
 ## How to modifying the presentation
 
-using github interface fork the repo:
+fork the repo (using the github interface):
 
 `https://github.com/tercen/proteomics_tutorial`
 
-this creates a personal copy under your github login name, let's say it is `myname`, this new repository is located at:
+this creates a personal copy under your github login name, let's say `myname` is you github login, after forking the new repository is located at:
 
 `https://github.com/myname/proteomics_tutorial`
 
