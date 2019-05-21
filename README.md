@@ -2,7 +2,7 @@ The tutorial is for researchers wishing to know the following:
 
 - TBD
 
-# Protoplasmic tutorial
+# Proteomics tutorial
 
 - TBD 
 
