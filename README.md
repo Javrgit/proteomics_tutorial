@@ -1,8 +1,8 @@
-The tuorial is for researchers whishing to know the following:
+The tutorial is for researchers wishing to know the following:
 
 - TBD
 
-# Protoemics tutorial
+# Protoplasmic tutorial
 
 - TBD 
 
@@ -14,7 +14,7 @@ https://tercen.github.io/proteomics_tutorial
 
 ## How to modifying the presentation
 
-fork the repo (using the github interface):
+[fork the repo using the github interface](https://guides.github.com/activities/forking/) :
 
 `https://github.com/tercen/proteomics_tutorial`
 
@@ -42,5 +42,5 @@ The presentation is online at:
 
 https://tercen.github.io/proteomics_tutorial
 
-once you are happy with the results then you can perform a `pull request` to the orginal repository, this is done via the github interface.
+once you are happy with the results then you can perform a [pull request](https://guides.github.com/activities/forking/) to the original repository, this is done via the github interface.
 
