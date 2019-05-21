@@ -1,8 +1,9 @@
 The tutorial is for researchers wishing to know the following:
 
-- TBD
+- Protein quantification
+- quality control
 
-# Protoplasmic tutorial
+# Proteomics tutorial
 
 - TBD 
 
